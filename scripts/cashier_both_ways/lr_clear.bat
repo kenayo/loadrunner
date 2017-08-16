@@ -1,0 +1,10 @@
+del /s *.sdf
+del /s combined_*.c
+del /s ThumbnailsCache.tmp
+del /s *.bak
+del /s pre_cci.c
+del /s *.ci
+del /s *.idx
+del /s *.c.pickle
+del /s mdrv_cmd.txt
+del /s options.txt

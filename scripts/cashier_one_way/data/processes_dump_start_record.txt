@@ -1,0 +1,100 @@
+Failed to get information of process Id: 0
+Failed to get information of process Id: 4
+Failed to get information of process Id: 364
+Failed to get information of process Id: 476
+Failed to get information of process Id: 560
+Failed to get information of process Id: 580
+Failed to get information of process Id: 620
+Failed to get information of process Id: 636
+Failed to get information of process Id: 644
+Failed to get information of process Id: 752
+Failed to get information of process Id: 844
+Failed to get information of process Id: 868
+Failed to get information of process Id: 936
+Failed to get information of process Id: 1012
+Failed to get information of process Id: 284
+Failed to get information of process Id: 324
+Failed to get information of process Id: 376
+Failed to get information of process Id: 448
+Failed to get information of process Id: 1148
+Failed to get information of process Id: 1312
+PROCESS 0x5ac       asldrsrv.exe
+PROCESS 0x5e0       gfnexsrv.exe
+PROCESS 0x600       avastsvc.exe
+Failed to get information of process Id: 1672
+Failed to get information of process Id: 1720
+Failed to get information of process Id: 1884
+Failed to get information of process Id: 2040
+PROCESS 0x544       nvtelemetrycontainer.exe
+Failed to get information of process Id: 1784
+Failed to get information of process Id: 2104
+Failed to get information of process Id: 2132
+Failed to get information of process Id: 2204
+Failed to get information of process Id: 2212
+Failed to get information of process Id: 2220
+Failed to get information of process Id: 2308
+PROCESS 0x948       service_update.exe
+Failed to get information of process Id: 2628
+Failed to get information of process Id: 2636
+Failed to get information of process Id: 2644
+Failed to get information of process Id: 2652
+Failed to get information of process Id: 2660
+PROCESS 0xa88       nvservicesj.exe
+PROCESS 0xdcc       nvcontainer.exe
+PROCESS 0xdd4       hcontrol.exe
+Failed to get information of process Id: 3548
+Failed to get information of process Id: 3640
+Failed to get information of process Id: 3708
+Failed to get information of process Id: 3760
+Failed to get information of process Id: 3840
+PROCESS 0xf1c       atkosd.exe
+Failed to get information of process Id: 3980
+Failed to get information of process Id: 4000
+PROCESS 0xfa8       atkosd2.exe
+Failed to get information of process Id: 3256
+PROCESS 0xd6c       avastui.exe
+Failed to get information of process Id: 4032
+PROCESS 0xfe8       dmedia.exe
+Failed to get information of process Id: 4184
+Failed to get information of process Id: 4808
+Failed to get information of process Id: 4864
+Failed to get information of process Id: 780
+PROCESS 0x1274      mshta.exe
+Failed to get information of process Id: 5368
+PROCESS 0x14f0      cmd.exe
+Failed to get information of process Id: 5204
+PROCESS 0x1530      powershell.exe
+Failed to get information of process Id: 1144
+Failed to get information of process Id: 4276
+Failed to get information of process Id: 4640
+PROCESS 0x1538      nvidia web helper.exe
+Failed to get information of process Id: 1964
+Failed to get information of process Id: 3752
+PROCESS 0xb54       skype.exe
+PROCESS 0x1228      wlrun.exe
+PROCESS 0x1bc4      skypebrowserhost.exe
+PROCESS 0x1670      skypebrowserhost.exe
+PROCESS 0x11d4      browser.exe
+PROCESS 0x1c0c      browser.exe
+PROCESS 0x1184      browser.exe
+PROCESS 0x9f0       browser.exe
+PROCESS 0x1c24      browser.exe
+PROCESS 0x1580      browser.exe
+PROCESS 0x1c7c      browser.exe
+PROCESS 0x1590      browser.exe
+PROCESS 0x1f30      browser.exe
+Failed to get information of process Id: 7332
+PROCESS 0xb04       browser.exe
+Failed to get information of process Id: 7348
+Failed to get information of process Id: 6740
+PROCESS 0x1a6c      httpd.exe
+PROCESS 0x1370      httpd.exe
+PROCESS 0xd9c       browser.exe
+PROCESS 0x1b0c      vugen.exe
+PROCESS 0x1e00      browser.exe
+PROCESS 0x76c       browser.exe
+PROCESS 0x5dc       browser.exe
+PROCESS 0x4c8       browser.exe
+PROCESS 0x1d74      browser.exe
+PROCESS 0xcc4       wmiprvse.exe
+Failed to get information of process Id: 5688

@@ -1,0 +1,4 @@
+"firstName=Jojo&lastName=Bean&address1=&address2=&pass1=Jojo+Bean&creditCard=12345123&expDate=0"
+"6%2F18&oldCCOption=&numPassengers=1&seatType=Coach&seatPref=Aisle&outboundFlight=100%3B386%3B0"
+"8%2F16%2F2017&advanceDiscount=0&returnFlight=&JSFormSubmit=off&.cgifields=saveCC&buyFlights.x="
+"59&buyFlights.y=8"

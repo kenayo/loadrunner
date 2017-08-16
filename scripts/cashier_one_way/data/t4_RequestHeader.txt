@@ -1,0 +1,7 @@
+GET /ie11blocklist/1401746408/versionlist.xml HTTP/1.1
+Accept: text/xml
+Accept-Encoding: gzip
+Host: iecvlist.microsoft.com
+Connection: Keep-Alive
+Cookie: SRCHD=AF=NOFORM; SRCHUID=V=2&GUID=1A44C5B7441144C085DA2783D480A3C2&dmnchg=1; SRCHUSR=DOB=20170810
+

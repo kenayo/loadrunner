@@ -1,0 +1,22 @@
+[
+    {
+        "transactionName": "button_new_ticket",
+        "rawStartTime": 1502889581282,
+        "rawEndTime": 1502889581543
+    },
+    {
+        "transactionName": "reservation_page_1",
+        "rawStartTime": 1502889581553,
+        "rawEndTime": 1502889581754
+    },
+    {
+        "transactionName": "reservation_page_2",
+        "rawStartTime": 1502889581768,
+        "rawEndTime": 1502889581989
+    },
+    {
+        "transactionName": "reservation_page_3",
+        "rawStartTime": 1502889581995,
+        "rawEndTime": 1502889582217
+    }
+]

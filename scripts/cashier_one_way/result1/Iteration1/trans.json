@@ -1,0 +1,32 @@
+[
+    {
+        "transactionName": "load_html",
+        "rawStartTime": 1502889579447,
+        "rawEndTime": 1502889579870
+    },
+    {
+        "transactionName": "login",
+        "rawStartTime": 1502889579877,
+        "rawEndTime": 1502889580108
+    },
+    {
+        "transactionName": "button_new_ticket",
+        "rawStartTime": 1502889580145,
+        "rawEndTime": 1502889580544
+    },
+    {
+        "transactionName": "reservation_page_1",
+        "rawStartTime": 1502889580555,
+        "rawEndTime": 1502889580805
+    },
+    {
+        "transactionName": "reservation_page_2",
+        "rawStartTime": 1502889580808,
+        "rawEndTime": 1502889581057
+    },
+    {
+        "transactionName": "reservation_page_3",
+        "rawStartTime": 1502889581064,
+        "rawEndTime": 1502889581263
+    }
+]
